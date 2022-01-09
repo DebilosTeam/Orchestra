@@ -22,6 +22,8 @@
 #### TO:DO
 - [X] Prefix registartion 
 - [ ] Slash commands handling
+- [ ] Base of the bot part
+- [ ] Web dashboard
 
 #### Something is broken right now
 Nothing is broken
