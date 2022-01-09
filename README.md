@@ -34,4 +34,4 @@ Nothing is broken
 Feel free to fork this repo and make a pull request or create an issue, if you encountered an problem!
 
 ### Licenses
-The project is licensed under the GNU Lesser General Public License 2.1.
+The project is licensed under the GNU General Public License v3.0
