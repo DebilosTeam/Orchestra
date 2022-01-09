@@ -11,11 +11,10 @@ module.exports = async (client) => {
         fs.readdir(EventsDir, (err, files) => {
         if (err) console.log(err);
         
-		else
+	else
         files.forEach((file) => {
             const event = require(EventsDir + "/" + file);
             client.on(file.split(".")[0], event.bind(null, client));
-            console.log("Event Loaded: " + file.split(".")[0]);
         });
     });
 };
