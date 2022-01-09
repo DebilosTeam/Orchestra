@@ -6,7 +6,9 @@
 </p>
 <p align="center">
   <a href="https://github.com/Developers-of-Debilos-Empire/Orchestra/issues">Send bug report</a>
-    •
+  •
+  <a href="https://github.com/Developers-of-Debilos-Empire/Orchestra#something-is-broken-right-now">Broked features</a>
+  •
   <a href="https://github.com/Developers-of-Debilos-Empire/Orchestra#licenses">Licenses</a>
 </p>
 
