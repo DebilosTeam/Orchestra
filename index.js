@@ -9,7 +9,7 @@ const { token } = require("./config.json");
 client.commands = new Collection();
 client.events = new Collection();
 
-["eventHandler", "commandHandler", "slashHandler"].forEach(func => {
+["eventHandler", "commandHandler"].forEach(func => {
     require(`./functions/${func}`)(client);
 });
 
