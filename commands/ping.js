@@ -5,8 +5,8 @@ module.exports = {
     aliases: ["p"],
     description: "Pong 🏓",
     permissions: [""],
+    
     /**
-     * 
      * @param {Client} client 
      * @param {Message} message 
      */
