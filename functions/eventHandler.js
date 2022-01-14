@@ -15,6 +15,7 @@ module.exports = async (client) => {
         files.forEach((file) => {
             const event = require(EventsDir + "/" + file);
             client.on(file.split(".")[0], event.bind(null, client));
+	    console.log("[LOG] Event " + file.split(".")[0] + " loaded");
         });
     });
 };
