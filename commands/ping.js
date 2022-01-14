@@ -6,7 +6,7 @@ module.exports = {
     cooldown: 1,
     description: "Pong 🏓",
     permissions: [""],
-    
+
     /**
      * @param {Client} client 
      * @param {Message} message 
