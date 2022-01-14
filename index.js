@@ -10,7 +10,7 @@ client.commands = new Collection();
 client.events = new Collection();
 
 ["eventHandler", "commandHandler"].forEach(func => {
-    require(`./functions/${func}`)(client);
+    require(`./src/functions/${func}`)(client);
 });
 
 client.login(token);
