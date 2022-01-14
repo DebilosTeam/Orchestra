@@ -1,4 +1,4 @@
-const { status, name, type, url } = require("../config.json")
+const { status, name, type } = require("../config.json")
 
 module.exports = async (client) => {
 	console.log(`Successfully logged in ${client.user.tag}`);
