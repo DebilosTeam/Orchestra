@@ -1,0 +1,29 @@
+{
+  "name": "orchestra",
+  "version": "0.0.1",
+  "description": "Just music bot for Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Developers-of-Debilos-Empire/Orchestra.git"
+  },
+  "keywords": [
+    "discord-bot",
+    "discord-js",
+    "music-bot-discord"
+  ],
+  "author": "OctoBanon & Debilos. Corp",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Developers-of-Debilos-Empire/Orchestra/issues"
+  },
+  "homepage": "https://github.com/Developers-of-Debilos-Empire/Orchestra#readme",
+  "dependencies": {
+    "@discordjs/voice": "^0.7.5",
+    "colors": "^1.4.0",
+    "discord.js": "^13.5.1"
+  }
+}
