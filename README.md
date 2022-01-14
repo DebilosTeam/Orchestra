@@ -21,11 +21,19 @@
 </p>
 <br />
 
-#### TO:DO
+#### Bot
 - [X] Prefix registartion 
-- [ ] Slash commands handling
-- [ ] Base of the bot part
+- [ ] Interactions
+- [ ] All parts of the bot
+
+#### Documentation
+Is currently not needed
+
+#### Other
 - [ ] Web dashboard
+
+#### Usage
+Is currently not needed
 
 #### Something is broken right now
 Nothing is broken
