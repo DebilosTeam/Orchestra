@@ -7,6 +7,7 @@ module.exports = (client) => {
         const command = require(`../commands/${file}`);
         if(command.name) {
             client.commands.set(command.name, command);
+            console.log("[LOG] Command: " + command.name + " loaded");
         } else {
             continue;
         }
