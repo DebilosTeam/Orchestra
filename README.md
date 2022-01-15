@@ -21,7 +21,7 @@
 </p>
 <br />
 
-#### TO:DO
+### TO:DO
 #### Bot
 - [X] Prefix registartion 
 - [ ] Interactions
