@@ -33,7 +33,7 @@ Is currently not needed
 #### Other
 - [ ] Web dashboard
 
-#### Usage
+### Usage
 Is currently not needed
 
 ### Something is broken right now
