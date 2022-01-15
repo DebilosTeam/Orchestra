@@ -21,6 +21,7 @@
 </p>
 <br />
 
+#### TO:DO
 #### Bot
 - [X] Prefix registartion 
 - [ ] Interactions
@@ -35,7 +36,7 @@ Is currently not needed
 #### Usage
 Is currently not needed
 
-#### Something is broken right now
+### Something is broken right now
 Nothing is broken
 
 ### How I can help?
