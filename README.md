@@ -21,6 +21,7 @@
 </p>
 <br />
 
+### TO:DO
 #### Bot
 - [X] Prefix registartion 
 - [ ] Interactions
@@ -32,14 +33,14 @@ Is currently not needed
 #### Other
 - [ ] Web dashboard
 
-#### Usage
+### Usage
 Is currently not needed
 
-#### Something is broken right now
+### Something is broken right now
 Nothing is broken
 
 ### How I can help?
 Feel free to fork this repo and make a pull request or create an issue, if you encountered an problem!
 
 ### Licenses
-The project is licensed under the GNU General Public License v3.0
+The project is licensed under the MIT License
