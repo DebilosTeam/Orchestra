@@ -2,7 +2,7 @@
   <h1 align="center">Orchestra</h1>
 </p>
 <p align="center">
-  <h2 align="center">Just music bot for Discord</h2>
+  <h2 align="center">Yet another discord music bot</h2>
 </p>
 <p align="center">
   <a href="https://github.com/Developers-of-Debilos-Empire/Orchestra/issues">Send bug report</a>
