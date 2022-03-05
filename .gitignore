@@ -1,4 +1,4 @@
-.vscode
+.idea
 node_modules
 package-lock.json
 .github/workflows/codeql-analysis.yml
