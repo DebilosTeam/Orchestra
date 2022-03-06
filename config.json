@@ -3,8 +3,9 @@
     "clientID": "",
     "clientSecret": "",
     "prefix": "+",
+    "embedColor": "#5c9992",
     "status": "online",
     "name": "",
     "type": "PLAYING",
-    "url": ""
+    "streamURL": ""
 }
