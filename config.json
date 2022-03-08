@@ -3,7 +3,7 @@
     "clientID": "",
     "clientSecret": "",
     "prefix": "+",
-    "embedColor": "#5c9992",
+    "embedColor": "RANDOM",
     "status": "online",
     "name": "",
     "type": "PLAYING",
