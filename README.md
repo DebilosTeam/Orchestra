@@ -43,4 +43,4 @@ Nothing is broken
 Feel free to fork this repo and make a pull request or create an issue, if you encountered an problem!
 
 ### Licenses
-The project is licensed under the MIT License
+The project is licensed under the [MIT License](https://github.com/Developers-of-Debilos-Empire/Orchestra/blob/main/LICENSE)
