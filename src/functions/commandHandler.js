@@ -3,7 +3,7 @@ const colors = require('colors');
 const { readdir } = require("fs");
 
 /**
- * @param {Client} client 
+ * @param {Client} client
  */
 
 module.exports = (client) => {
