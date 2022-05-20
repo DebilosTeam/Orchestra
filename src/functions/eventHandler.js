@@ -5,7 +5,6 @@ const colors = require('colors');
 
 /**
  * @param {Client} client 
- * @param {Map} global.connections
  */
 
 module.exports = async (client) => {
