@@ -1,4 +1,4 @@
-const { MessageEmbed } = require("discord.js");
+const { MessageEmbed, Collection } = require("discord.js");
 const { prefix } = require("../../config.json");
 
 const cooldowns = new Map();
