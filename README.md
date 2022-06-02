@@ -1,46 +1,44 @@
+<h1 align="center">Orchestra</h1>
+<h2 align="center">Yet another discord music bot</h2>
+
 <p align="center">
-  <h1 align="center">Orchestra</h1>
-</p>
-<p align="center">
-  <h2 align="center">Yet another discord music bot</h2>
-</p>
-<p align="center">
-  <a href="https://github.com/Developers-of-Debilos-Empire/Orchestra/issues">Send bug report</a>
-  •
-  <a href="https://github.com/Developers-of-Debilos-Empire/Orchestra#something-is-broken-right-now">Broked features</a>
-  •
-  <a href="https://github.com/Developers-of-Debilos-Empire/Orchestra#licenses">Licenses</a>
+    <a href="https://github.com/Developers-of-Debilos-Empire/Orchestra/issues">Send bug report</a>
+    •
+    <a href="https://github.com/Developers-of-Debilos-Empire/Orchestra#something-is-broken-right-now">Broked features</a>
+    •
+    <a href="https://github.com/Developers-of-Debilos-Empire/Orchestra#licenses">Licenses</a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/contributors/Developers-of-Debilos-Empire/Orchestra?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/forks/Developers-of-Debilos-Empire/Orchestra?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/watchers/Developers-of-Debilos-Empire/Orchestra?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/Developers-of-Debilos-Empire/Orchestra?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/license/Developers-of-Debilos-Empire/Orchestra?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/contributors/Developers-of-Debilos-Empire/Orchestra?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/forks/Developers-of-Debilos-Empire/Orchestra?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/watchers/Developers-of-Debilos-Empire/Orchestra?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/stars/Developers-of-Debilos-Empire/Orchestra?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/license/Developers-of-Debilos-Empire/Orchestra?style=for-the-badge"/>
 </p>
-<br />
 
-### TO:DO
-#### Bot
+
+## TODO
+### Bot
 - [X] Prefix registartion 
 - [ ] Interactions
 - [ ] All parts of the bot
 
-#### Documentation
-Is currently not needed
-
-#### Other
+### Other
 - [ ] Web dashboard
 
-### Usage
+
+## Documentation
 Is currently not needed
 
-### Something is broken right now
+
+## Something is broken right now
 Nothing is broken
 
-### How I can help?
+
+## How I can help?
 Feel free to fork this repo and make a pull request or create an issue, if you encountered an problem!
 
-### Licenses
+
+## Licenses
 The project is licensed under the [MIT License](https://github.com/Developers-of-Debilos-Empire/Orchestra/blob/main/LICENSE)
