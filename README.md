@@ -35,7 +35,7 @@ Nothing is broken
 
 
 ## How I can help?
-Feel free to fork this repo and make a pull request or create an issue, if you encountered an problem!
+Feel free to fork this repo and make a pull request or create an issue, if you encountered a problem!
 
 
 ## Licenses
