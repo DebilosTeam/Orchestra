@@ -40,5 +40,3 @@ Feel free to fork this repo and make a pull request or create an issue, if you e
 
 ## Licenses
 The project is licensed under the [MIT License](https://gitlab.com/DebilosTeam/Orchestra/-/blob/main/LICENSE)
-
-Based on DeBot 2.0
