@@ -18,9 +18,8 @@
 
 ## TODO
 ### Bot
-- [ ] Prefix registartion 
 - [ ] Interactions
-- [ ] All parts of the bot
+- [ ] Music commands
 
 ### Other
 - [ ] Web dashboard
